@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Ik ___ moe. (I am tired)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "ben"
+  },
+  {
+    "id": 2,
+    "question": "Jij ___ een student. (You are a student)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "bent"
+  },
+  {
+    "id": 3,
+    "question": "Hij ___ thuis. (He is at home)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 4,
+    "question": "Zij (she) ___ blij. (She is happy)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 5,
+    "question": "Wij ___ vrienden. (We are friends)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 6,
+    "question": "Jullie ___ laat. (You all are late)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 7,
+    "question": "Zij (they) ___ uit Nederland. (They are from the Netherlands)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 8,
+    "question": "U ___ welkom. (You are welcome — formal)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "bent"
+  },
+  {
+    "id": 9,
+    "question": "Het ___ koud buiten. (It is cold outside)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 10,
+    "question": "___ jij ziek? (Are you sick?) — inverted",
+    "options": ["Ben", "Bent", "Is", "Zijn"],
+    "answer": "Ben"
+  },
+  {
+    "id": 11,
+    "question": "Ik ___ gisteren ziek. (I was sick yesterday — past)",
+    "options": ["was", "waren", "ben", "bent"],
+    "answer": "was"
+  },
+  {
+    "id": 12,
+    "question": "Wij ___ op vakantie. (We were on vacation — past)",
+    "options": ["was", "waren", "ben", "zijn"],
+    "answer": "waren"
+  },
+  {
+    "id": 13,
+    "question": "Hij ___ te laat op het werk. (He was late for work — past)",
+    "options": ["was", "waren", "is", "ben"],
+    "answer": "was"
+  },
+  {
+    "id": 14,
+    "question": "Jullie ___ erg aardig. (You all were very kind — past)",
+    "options": ["was", "waren", "bent", "zijn"],
+    "answer": "waren"
+  },
+  {
+    "id": 15,
+    "question": "Zij (she) ___ lerares. (She was a teacher — past)",
+    "options": ["was", "waren", "is", "ben"],
+    "answer": "was"
+  }
+]

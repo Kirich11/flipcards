@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "___ ben een leraar. (I am a teacher) — subject pronoun",
+    "options": ["Ik", "Mij", "Me", "Mijn"],
+    "answer": "Ik"
+  },
+  {
+    "id": 2,
+    "question": "___ woont in Amsterdam. (He lives in Amsterdam) — subject pronoun",
+    "options": ["Hij", "Hem", "Zijn", "Zij"],
+    "answer": "Hij"
+  },
+  {
+    "id": 3,
+    "question": "Ik zie ___. (I see her) — object pronoun",
+    "options": ["zij", "haar", "ze", "hun"],
+    "answer": "haar"
+  },
+  {
+    "id": 4,
+    "question": "Dit boek is voor ___. (This book is for you) — object pronoun",
+    "options": ["jij", "jou", "je", "jullie"],
+    "answer": "jou"
+  },
+  {
+    "id": 5,
+    "question": "___ gaan naar school. (We go to school) — subject pronoun",
+    "options": ["Wij", "Ons", "Onze", "We"],
+    "answer": "Wij"
+  },
+  {
+    "id": 6,
+    "question": "Zij helpt ___. (She helps him) — object pronoun",
+    "options": ["hij", "hem", "zijn", "zij"],
+    "answer": "hem"
+  },
+  {
+    "id": 7,
+    "question": "Geef het aan ___. (Give it to us) — object pronoun",
+    "options": ["wij", "ons", "we", "onze"],
+    "answer": "ons"
+  },
+  {
+    "id": 8,
+    "question": "___ spreekt Nederlands. (She speaks Dutch) — subject pronoun",
+    "options": ["Zij", "Haar", "Ze", "Hun"],
+    "answer": "Zij"
+  },
+  {
+    "id": 9,
+    "question": "Ik bel ___ morgen. (I call them tomorrow) — object pronoun",
+    "options": ["zij", "hun", "hen", "ze"],
+    "answer": "hen"
+  },
+  {
+    "id": 10,
+    "question": "Ken ___ die man? (Do you know that man?) — subject pronoun",
+    "options": ["jou", "jij", "je", "u"],
+    "answer": "jij"
+  },
+  {
+    "id": 11,
+    "question": "Ik geef ___ een cadeau. (I give them a present) — indirect object",
+    "options": ["zij", "hen", "hun", "ze"],
+    "answer": "hun"
+  },
+  {
+    "id": 12,
+    "question": "___ heeft een hond. (It has a dog) — subject pronoun (neuter)",
+    "options": ["Hij", "Het", "Zij", "Er"],
+    "answer": "Het"
+  },
+  {
+    "id": 13,
+    "question": "Kom bij ___! (Come to me!) — object pronoun",
+    "options": ["ik", "mij", "mijn", "me"],
+    "answer": "mij"
+  },
+  {
+    "id": 14,
+    "question": "___ zijn studenten. (They are students) — subject pronoun",
+    "options": ["Hen", "Hun", "Zij", "Haar"],
+    "answer": "Zij"
+  },
+  {
+    "id": 15,
+    "question": "De leraar vraagt het aan ___. (The teacher asks you — formal) — object",
+    "options": ["jou", "u", "je", "jullie"],
+    "answer": "u"
+  }
+]
