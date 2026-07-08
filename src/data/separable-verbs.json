@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "Wat betekent 'opstaan'?",
+    "options": [
+      "to get up",
+      "to prepare",
+      "to look up",
+      "to go along"
+    ],
+    "answer": "to get up"
+  },
+  {
+    "id": 2,
+    "question": "Wat betekent 'aankomen'?",
+    "options": [
+      "to indicate",
+      "to cancel",
+      "to dry off",
+      "to arrive"
+    ],
+    "answer": "to arrive"
+  },
+  {
+    "id": 3,
+    "question": "Wat betekent 'weggaan'?",
+    "options": [
+      "to get out / disembark",
+      "to leave / go away",
+      "to unpack",
+      "to close / lock"
+    ],
+    "answer": "to leave / go away"
+  },
+  {
+    "id": 4,
+    "question": "Wat betekent 'binnenkomen'?",
+    "options": [
+      "to indicate",
+      "to take off / turn off",
+      "to transfer / change",
+      "to come in"
+    ],
+    "answer": "to come in"
+  },
+  {
+    "id": 5,
+    "question": "Wat betekent 'thuiskomen'?",
+    "options": [
+      "to come home",
+      "to arrive",
+      "to put on (clothes)",
+      "to fasten"
+    ],
+    "answer": "to come home"
+  },
+  {
+    "id": 6,
+    "question": "Wat betekent 'terugkomen'?",
+    "options": [
+      "to dry off",
+      "to come back",
+      "to remove",
+      "to get out / disembark"
+    ],
+    "answer": "to come back"
+  },
+  {
+    "id": 7,
+    "question": "Wat betekent 'teruggaan'?",
+    "options": [
+      "to go back",
+      "to bring back",
+      "to inhale",
+      "to look back"
+    ],
+    "answer": "to go back"
+  },
+  {
+    "id": 8,
+    "question": "Wat betekent 'meegaan'?",
+    "options": [
+      "to go along",
+      "to set up",
+      "to stop / hold back",
+      "to come out / turn out"
+    ],
+    "answer": "to go along"
+  },
+  {
+    "id": 9,
+    "question": "Wat betekent 'meenemen'?",
+    "options": [
+      "to adjust / adapt",
+      "to sign off",
+      "to take along",
+      "to cooperate"
+    ],
+    "answer": "to take along"
+  },
+  {
+    "id": 10,
+    "question": "Wat betekent 'meebrengen'?",
+    "options": [
+      "to bring along",
+      "to unpack",
+      "to wash the dishes",
+      "to invite"
+    ],
+    "answer": "to bring along"
+  },
+  {
+    "id": 11,
+    "question": "Wat betekent 'meedoen'?",
+    "options": [
+      "to join in",
+      "to pass by",
+      "to summarize",
+      "to take off (clothes)"
+    ],
+    "answer": "to join in"
+  },
+  {
+    "id": 12,
+    "question": "Wat betekent 'meemaken'?",
+    "options": [
+      "to get undressed",
+      "to experience",
+      "to exhale",
+      "to arrange / agree"
+    ],
+    "answer": "to experience"
+  },
+  {
+    "id": 13,
+    "question": "Wat betekent 'meespelen'?",
+    "options": [
+      "to look around",
+      "to play along",
+      "to hand out",
+      "to introduce / propose"
+    ],
+    "answer": "to play along"
+  },
+  {
+    "id": 14,
+    "question": "Wat betekent 'doorgaan'?",
+    "options": [
+      "to spend (time)",
+      "to continue",
+      "to pack",
+      "to take along"
+    ],
+    "answer": "to continue"
+  },
+  {
+    "id": 15,
+    "question": "Wat betekent 'doorlezen'?",
+    "options": [
+      "to read through",
+      "to get in / board",
+      "to keep talking",
+      "to keep on / detain"
+    ],
+    "answer": "to read through"
+  },
+  {
+    "id": 16,
+    "question": "Wat betekent 'doorbrengen'?",
+    "options": [
+      "to drop by",
+      "to spend (time)",
+      "to clean",
+      "to draw up / compose"
+    ],
+    "answer": "to spend (time)"
+  },
+  {
+    "id": 17,
+    "question": "Wat betekent 'doorwerken'?",
+    "options": [
+      "to make ends meet",
+      "to come out / turn out",
+      "to inhale",
+      "to keep working"
+    ],
+    "answer": "to keep working"
+  },
+  {
+    "id": 18,
+    "question": "Wat betekent 'doorpraten'?",
+    "options": [
+      "to transfer / change",
+      "to hurry up",
+      "to cooperate",
+      "to keep talking"
+    ],
+    "answer": "to keep talking"
+  },
+  {
+    "id": 19,
+    "question": "Wat betekent 'doorgeven'?",
+    "options": [
+      "to cancel / quit",
+      "to look up",
+      "to put on (clothes)",
+      "to pass on"
+    ],
+    "answer": "to pass on"
+  },
+  {
+    "id": 20,
+    "question": "Wat betekent 'afspreken'?",
+    "options": [
+      "to look around",
+      "to walk around",
+      "to arrange / agree",
+      "to stay home"
+    ],
+    "answer": "to arrange / agree"
+  },
+  {
+    "id": 21,
+    "question": "Wat betekent 'afmaken'?",
+    "options": [
+      "to finish",
+      "to come out / turn out",
+      "to clean up",
+      "to exhale"
+    ],
+    "answer": "to finish"
+  },
+  {
+    "id": 22,
+    "question": "Wat betekent 'afwassen'?",
+    "options": [
+      "to wash the dishes",
+      "to put on (clothes)",
+      "to pass by",
+      "to lift up"
+    ],
+    "answer": "to wash the dishes"
+  },
+  {
+    "id": 23,
+    "question": "Wat betekent 'afhalen'?",
+    "options": [
+      "to pick up / collect",
+      "to turn off",
+      "to apply",
+      "to award / grant"
+    ],
+    "answer": "to pick up / collect"
+  },
+  {
+    "id": 24,
+    "question": "Wat betekent 'afzeggen'?",
+    "options": [
+      "to connect",
+      "to cancel",
+      "to apply",
+      "to cancel / quit"
+    ],
+    "answer": "to cancel"
+  },
+  {
+    "id": 25,
+    "question": "Wat betekent 'afsluiten'?",
+    "options": [
+      "to close / lock",
+      "to come home",
+      "to contribute",
+      "to take over"
+    ],
+    "answer": "to close / lock"
+  },
+  {
+    "id": 26,
+    "question": "Wat betekent 'aftrekken'?",
+    "options": [
+      "to keep on / detain",
+      "to read through",
+      "to subtract",
+      "to switch on"
+    ],
+    "answer": "to subtract"
+  },
+  {
+    "id": 27,
+    "question": "Wat betekent 'afvallen'?",
+    "options": [
+      "to keep talking",
+      "to lose weight",
+      "to charge (a battery)",
+      "to clear up (weather)"
+    ],
+    "answer": "to lose weight"
+  },
+  {
+    "id": 28,
+    "question": "Wat betekent 'afdrogen'?",
+    "options": [
+      "to get dressed",
+      "to inhale",
+      "to tick / check off",
+      "to dry off"
+    ],
+    "answer": "to dry off"
+  },
+  {
+    "id": 29,
+    "question": "Wat betekent 'afruimen'?",
+    "options": [
+      "to rest",
+      "to close",
+      "to run into",
+      "to clear the table"
+    ],
+    "answer": "to clear the table"
+  },
+  {
+    "id": 30,
+    "question": "Wat betekent 'opzoeken'?",
+    "options": [
+      "to fill in",
+      "to look up",
+      "to import / enter",
+      "to phone / call"
+    ],
+    "answer": "to look up"
+  },
+  {
+    "id": 31,
+    "question": "Wat betekent 'opruimen'?",
+    "options": [
+      "to pack",
+      "to transfer / change",
+      "to clean up",
+      "to touch"
+    ],
+    "answer": "to clean up"
+  },
+  {
+    "id": 32,
+    "question": "Wat betekent 'opbellen'?",
+    "options": [
+      "to keep talking",
+      "to phone / call",
+      "to pack",
+      "to take along"
+    ],
+    "answer": "to phone / call"
+  },
+  {
+    "id": 33,
+    "question": "Wat betekent 'opzetten'?",
+    "options": [
+      "to read aloud",
+      "to set up",
+      "to get in / board",
+      "to settle (a dispute)"
+    ],
+    "answer": "to set up"
+  },
+  {
+    "id": 34,
+    "question": "Wat betekent 'opladen'?",
+    "options": [
+      "to charge (a battery)",
+      "to turn off (a tap)",
+      "to switch off",
+      "to stand still"
+    ],
+    "answer": "to charge (a battery)"
+  },
+  {
+    "id": 35,
+    "question": "Wat betekent 'opeten'?",
+    "options": [
+      "to fasten",
+      "to put down",
+      "to pay back",
+      "to eat up"
+    ],
+    "answer": "to eat up"
+  },
+  {
+    "id": 36,
+    "question": "Wat betekent 'opdrinken'?",
+    "options": [
+      "to spend (time)",
+      "to drink up",
+      "to subtract",
+      "to open"
+    ],
+    "answer": "to drink up"
+  },
+  {
+    "id": 37,
+    "question": "Wat betekent 'opschieten'?",
+    "options": [
+      "to come out / turn out",
+      "to sign up",
+      "to sign off",
+      "to hurry up"
+    ],
+    "answer": "to hurry up"
+  },
+  {
+    "id": 38,
+    "question": "Wat betekent 'opstellen'?",
+    "options": [
+      "to drop by / walk in",
+      "to draw up / compose",
+      "to recommend",
+      "to read aloud"
+    ],
+    "answer": "to draw up / compose"
+  },
+  {
+    "id": 39,
+    "question": "Wat betekent 'opsturen'?",
+    "options": [
+      "to subtract",
+      "to play along",
+      "to send",
+      "to touch"
+    ],
+    "answer": "to send"
+  },
+  {
+    "id": 40,
+    "question": "Wat betekent 'opnemen'?",
+    "options": [
+      "to settle (a dispute)",
+      "to turn off (a tap)",
+      "to get dressed",
+      "to pick up (phone) / record"
+    ],
+    "answer": "to pick up (phone) / record"
+  },
+  {
+    "id": 41,
+    "question": "Wat betekent 'opzeggen'?",
+    "options": [
+      "to cancel / quit",
+      "to look around",
+      "to get dressed",
+      "to spend (time)"
+    ],
+    "answer": "to cancel / quit"
+  },
+  {
+    "id": 42,
+    "question": "Wat betekent 'aantrekken'?",
+    "options": [
+      "to explain",
+      "to fasten",
+      "to pass by",
+      "to put on (clothes)"
+    ],
+    "answer": "to put on (clothes)"
+  },
+  {
+    "id": 43,
+    "question": "Wat betekent 'uittrekken'?",
+    "options": [
+      "to take off (clothes)",
+      "to get out / disembark",
+      "to read through",
+      "to figure out / select"
+    ],
+    "answer": "to take off (clothes)"
+  },
+  {
+    "id": 44,
+    "question": "Wat betekent 'aankleden'?",
+    "options": [
+      "to get dressed",
+      "to keep track of",
+      "to read through",
+      "to play along"
+    ],
+    "answer": "to get dressed"
+  },
+  {
+    "id": 45,
+    "question": "Wat betekent 'uitkleden'?",
+    "options": [
+      "to keep talking",
+      "to hand in",
+      "to offer",
+      "to get undressed"
+    ],
+    "answer": "to get undressed"
+  },
+  {
+    "id": 46,
+    "question": "Wat betekent 'aanzetten'?",
+    "options": [
+      "to copy / cheat (by looking)",
+      "to join in",
+      "to finish",
+      "to turn on"
+    ],
+    "answer": "to turn on"
+  },
+  {
+    "id": 47,
+    "question": "Wat betekent 'uitzetten'?",
+    "options": [
+      "to log out",
+      "to spend (money) / publish",
+      "to turn off",
+      "to look at"
+    ],
+    "answer": "to turn off"
+  },
+  {
+    "id": 48,
+    "question": "Wat betekent 'aanraden'?",
+    "options": [
+      "to try out",
+      "to recommend",
+      "to charge (a battery)",
+      "to drop by"
+    ],
+    "answer": "to recommend"
+  },
+  {
+    "id": 49,
+    "question": "Wat betekent 'aanbieden'?",
+    "options": [
+      "to contradict",
+      "to offer",
+      "to subtract",
+      "to drop by"
+    ],
+    "answer": "to offer"
+  },
+  {
+    "id": 50,
+    "question": "Wat betekent 'aanmelden'?",
+    "options": [
+      "to inhale",
+      "to sign up",
+      "to apply",
+      "to charge (a battery)"
+    ],
+    "answer": "to sign up"
+  },
+  {
+    "id": 51,
+    "question": "Wat betekent 'afmelden'?",
+    "options": [
+      "to come together",
+      "to demonstrate",
+      "to cancel / quit",
+      "to sign off"
+    ],
+    "answer": "to sign off"
+  },
+  {
+    "id": 52,
+    "question": "Wat betekent 'aansluiten'?",
+    "options": [
+      "to leave / go away",
+      "to come down / amount to",
+      "to connect",
+      "to touch"
+    ],
+    "answer": "to connect"
+  },
+  {
+    "id": 53,
+    "question": "Wat betekent 'aanpakken'?",
+    "options": [
+      "to inhale",
+      "to tackle",
+      "to look up",
+      "to eat up"
+    ],
+    "answer": "to tackle"
+  },
+  {
+    "id": 54,
+    "question": "Wat betekent 'aankijken'?",
+    "options": [
+      "to look at",
+      "to demonstrate",
+      "to introduce / propose",
+      "to point out"
+    ],
+    "answer": "to look at"
+  },
+  {
+    "id": 55,
+    "question": "Wat betekent 'aanwijzen'?",
+    "options": [
+      "to carry out / export",
+      "to contribute",
+      "to point out",
+      "to apply"
+    ],
+    "answer": "to point out"
+  },
+  {
+    "id": 56,
+    "question": "Wat betekent 'instappen'?",
+    "options": [
+      "to get in / board",
+      "to experience",
+      "to prepare",
+      "to get up"
+    ],
+    "answer": "to get in / board"
+  },
+  {
+    "id": 57,
+    "question": "Wat betekent 'uitstappen'?",
+    "options": [
+      "to look back / around",
+      "to put on (clothes)",
+      "to touch",
+      "to get out / disembark"
+    ],
+    "answer": "to get out / disembark"
+  },
+  {
+    "id": 58,
+    "question": "Wat betekent 'overstappen'?",
+    "options": [
+      "to send",
+      "to transfer / change",
+      "to arrange / agree",
+      "to clear the table"
+    ],
+    "answer": "to transfer / change"
+  },
+  {
+    "id": 59,
+    "question": "Wat betekent 'invullen'?",
+    "options": [
+      "to fill in",
+      "to put down",
+      "to set up",
+      "to join in"
+    ],
+    "answer": "to fill in"
+  },
+  {
+    "id": 60,
+    "question": "Wat betekent 'inpakken'?",
+    "options": [
+      "to pack",
+      "to import / enter",
+      "to look at",
+      "to look back"
+    ],
+    "answer": "to pack"
+  },
+  {
+    "id": 61,
+    "question": "Wat betekent 'uitpakken'?",
+    "options": [
+      "to put on (clothes)",
+      "to pick up (phone) / record",
+      "to unpack",
+      "to hand in"
+    ],
+    "answer": "to unpack"
+  },
+  {
+    "id": 62,
+    "question": "Wat betekent 'inleveren'?",
+    "options": [
+      "to turn on (a tap)",
+      "to turn on",
+      "to hand in",
+      "to take away / drop off"
+    ],
+    "answer": "to hand in"
+  },
+  {
+    "id": 63,
+    "question": "Wat betekent 'inschakelen'?",
+    "options": [
+      "to look around",
+      "to bring along",
+      "to dry off",
+      "to switch on"
+    ],
+    "answer": "to switch on"
+  },
+  {
+    "id": 64,
+    "question": "Wat betekent 'uitschakelen'?",
+    "options": [
+      "to switch off",
+      "to expand",
+      "to drop by",
+      "to give back"
+    ],
+    "answer": "to switch off"
+  },
+  {
+    "id": 65,
+    "question": "Wat betekent 'invoeren'?",
+    "options": [
+      "to import / enter",
+      "to close",
+      "to sign up",
+      "to throw away"
+    ],
+    "answer": "to import / enter"
+  },
+  {
+    "id": 66,
+    "question": "Wat betekent 'uitvoeren'?",
+    "options": [
+      "to send",
+      "to carry out / export",
+      "to give back",
+      "to close"
+    ],
+    "answer": "to carry out / export"
+  },
+  {
+    "id": 67,
+    "question": "Wat betekent 'inloggen'?",
+    "options": [
+      "to turn on",
+      "to log in",
+      "to log out",
+      "to copy / cheat (by looking)"
+    ],
+    "answer": "to log in"
+  },
+  {
+    "id": 68,
+    "question": "Wat betekent 'uitloggen'?",
+    "options": [
+      "to bring back",
+      "to lift up",
+      "to spend (money) / publish",
+      "to log out"
+    ],
+    "answer": "to log out"
+  },
+  {
+    "id": 69,
+    "question": "Wat betekent 'inademen'?",
+    "options": [
+      "to inhale",
+      "to adjust / adapt",
+      "to walk around",
+      "to offer"
+    ],
+    "answer": "to inhale"
+  },
+  {
+    "id": 70,
+    "question": "Wat betekent 'uitademen'?",
+    "options": [
+      "to get up",
+      "to come out / turn out",
+      "to exhale",
+      "to accommodate / house"
+    ],
+    "answer": "to exhale"
+  },
+  {
+    "id": 71,
+    "question": "Wat betekent 'voorstellen'?",
+    "options": [
+      "to introduce / propose",
+      "to throw away",
+      "to spend (money) / publish",
+      "to keep talking"
+    ],
+    "answer": "to introduce / propose"
+  },
+  {
+    "id": 72,
+    "question": "Wat betekent 'voorbereiden'?",
+    "options": [
+      "to apply",
+      "to prepare",
+      "to rest",
+      "to turn off (a tap)"
+    ],
+    "answer": "to prepare"
+  },
+  {
+    "id": 73,
+    "question": "Wat betekent 'voorlezen'?",
+    "options": [
+      "to touch",
+      "to set up",
+      "to sign up",
+      "to read aloud"
+    ],
+    "answer": "to read aloud"
+  },
+  {
+    "id": 74,
+    "question": "Wat betekent 'voordoen'?",
+    "options": [
+      "to keep on / detain",
+      "to get undressed",
+      "to broadcast",
+      "to demonstrate"
+    ],
+    "answer": "to demonstrate"
+  },
+  {
+    "id": 75,
+    "question": "Wat betekent 'uitleggen'?",
+    "options": [
+      "to broadcast",
+      "to demonstrate",
+      "to look at",
+      "to explain"
+    ],
+    "answer": "to explain"
+  },
+  {
+    "id": 76,
+    "question": "Wat betekent 'uitnodigen'?",
+    "options": [
+      "to look back / around",
+      "to stay home",
+      "to point out",
+      "to invite"
+    ],
+    "answer": "to invite"
+  },
+  {
+    "id": 77,
+    "question": "Wat betekent 'uitzoeken'?",
+    "options": [
+      "to read aloud",
+      "to figure out / select",
+      "to wash the dishes",
+      "to assign"
+    ],
+    "answer": "to figure out / select"
+  },
+  {
+    "id": 78,
+    "question": "Wat betekent 'uitproberen'?",
+    "options": [
+      "to try out",
+      "to sign off",
+      "to rest",
+      "to transfer / change"
+    ],
+    "answer": "to try out"
+  },
+  {
+    "id": 79,
+    "question": "Wat betekent 'uitzenden'?",
+    "options": [
+      "to pass on",
+      "to switch on",
+      "to stand still",
+      "to broadcast"
+    ],
+    "answer": "to broadcast"
+  },
+  {
+    "id": 80,
+    "question": "Wat betekent 'uitbreiden'?",
+    "options": [
+      "to expand",
+      "to close",
+      "to walk around",
+      "to add"
+    ],
+    "answer": "to expand"
+  },
+  {
+    "id": 81,
+    "question": "Wat betekent 'uitrusten'?",
+    "options": [
+      "to dry off",
+      "to rest",
+      "to get out / disembark",
+      "to fasten"
+    ],
+    "answer": "to rest"
+  },
+  {
+    "id": 82,
+    "question": "Wat betekent 'uitgeven'?",
+    "options": [
+      "to switch off",
+      "to spend (money) / publish",
+      "to hand out",
+      "to play along"
+    ],
+    "answer": "to spend (money) / publish"
+  },
+  {
+    "id": 83,
+    "question": "Wat betekent 'uitstellen'?",
+    "options": [
+      "to drop by / walk in",
+      "to postpone",
+      "to come down / amount to",
+      "to make ends meet"
+    ],
+    "answer": "to postpone"
+  },
+  {
+    "id": 84,
+    "question": "Wat betekent 'overnemen'?",
+    "options": [
+      "to tick / check off",
+      "to cancel / quit",
+      "to watch / look on",
+      "to take over"
+    ],
+    "answer": "to take over"
+  },
+  {
+    "id": 85,
+    "question": "Wat betekent 'overgeven'?",
+    "options": [
+      "to introduce / propose",
+      "to switch off",
+      "to accommodate / house",
+      "to vomit / hand over"
+    ],
+    "answer": "to vomit / hand over"
+  },
+  {
+    "id": 86,
+    "question": "Wat betekent 'weggooien'?",
+    "options": [
+      "to throw away",
+      "to watch out",
+      "to introduce / propose",
+      "to arrange / agree"
+    ],
+    "answer": "to throw away"
+  },
+  {
+    "id": 87,
+    "question": "Wat betekent 'wegbrengen'?",
+    "options": [
+      "to spend (money) / publish",
+      "to purchase / acquire",
+      "to take away / drop off",
+      "to throw away"
+    ],
+    "answer": "to take away / drop off"
+  },
+  {
+    "id": 88,
+    "question": "Wat betekent 'weghalen'?",
+    "options": [
+      "to pick up (phone) / record",
+      "to remove",
+      "to pack",
+      "to walk around"
+    ],
+    "answer": "to remove"
+  },
+  {
+    "id": 89,
+    "question": "Wat betekent 'achterlaten'?",
+    "options": [
+      "to purchase / acquire",
+      "to turn off (a tap)",
+      "to vomit / hand over",
+      "to leave behind"
+    ],
+    "answer": "to leave behind"
+  },
+  {
+    "id": 90,
+    "question": "Wat betekent 'terugbrengen'?",
+    "options": [
+      "to bring back",
+      "to take off / turn off",
+      "to prepare / get ready",
+      "to tackle"
+    ],
+    "answer": "to bring back"
+  },
+  {
+    "id": 91,
+    "question": "Wat betekent 'teruggeven'?",
+    "options": [
+      "to keep track of",
+      "to give back",
+      "to arrive",
+      "to pay back"
+    ],
+    "answer": "to give back"
+  },
+  {
+    "id": 92,
+    "question": "Wat betekent 'terugbetalen'?",
+    "options": [
+      "to get out / disembark",
+      "to indicate",
+      "to come out / turn out",
+      "to pay back"
+    ],
+    "answer": "to pay back"
+  },
+  {
+    "id": 93,
+    "question": "Wat betekent 'terugkijken'?",
+    "options": [
+      "to lift up",
+      "to go along",
+      "to settle (a dispute)",
+      "to look back"
+    ],
+    "answer": "to look back"
+  },
+  {
+    "id": 94,
+    "question": "Wat betekent 'samenwerken'?",
+    "options": [
+      "to set up",
+      "to cooperate",
+      "to stay home",
+      "to take off (clothes)"
+    ],
+    "answer": "to cooperate"
+  },
+  {
+    "id": 95,
+    "question": "Wat betekent 'samenvatten'?",
+    "options": [
+      "to loosen / untie",
+      "to eat up",
+      "to wash the dishes",
+      "to summarize"
+    ],
+    "answer": "to summarize"
+  },
+  {
+    "id": 96,
+    "question": "Wat betekent 'samenkomen'?",
+    "options": [
+      "to log in",
+      "to take over",
+      "to come together",
+      "to look around"
+    ],
+    "answer": "to come together"
+  },
+  {
+    "id": 97,
+    "question": "Wat betekent 'tegenkomen'?",
+    "options": [
+      "to prepare",
+      "to take away / drop off",
+      "to look around",
+      "to run into"
+    ],
+    "answer": "to run into"
+  },
+  {
+    "id": 98,
+    "question": "Wat betekent 'tegenhouden'?",
+    "options": [
+      "to purchase / acquire",
+      "to stop / hold back",
+      "to come home",
+      "to stay away"
+    ],
+    "answer": "to stop / hold back"
+  },
+  {
+    "id": 99,
+    "question": "Wat betekent 'rondkijken'?",
+    "options": [
+      "to look around",
+      "to go along",
+      "to keep talking",
+      "to join in"
+    ],
+    "answer": "to look around"
+  },
+  {
+    "id": 100,
+    "question": "Wat betekent 'rondlopen'?",
+    "options": [
+      "to hand in",
+      "to pick up (phone) / record",
+      "to set up",
+      "to walk around"
+    ],
+    "answer": "to walk around"
+  },
+  {
+    "id": 101,
+    "question": "Wat betekent 'klaarmaken'?",
+    "options": [
+      "to prepare / get ready",
+      "to contradict",
+      "to get in / board",
+      "to stay home"
+    ],
+    "answer": "to prepare / get ready"
+  },
+  {
+    "id": 102,
+    "question": "Wat betekent 'klaarzetten'?",
+    "options": [
+      "to put on (clothes)",
+      "to set out / lay out",
+      "to expand",
+      "to look up"
+    ],
+    "answer": "to set out / lay out"
+  },
+  {
+    "id": 103,
+    "question": "Wat betekent 'schoonmaken'?",
+    "options": [
+      "to adjust / adapt",
+      "to expand",
+      "to run into",
+      "to clean"
+    ],
+    "answer": "to clean"
+  },
+  {
+    "id": 104,
+    "question": "Wat betekent 'dichtdoen'?",
+    "options": [
+      "to switch on",
+      "to arrange / agree",
+      "to close",
+      "to lose weight"
+    ],
+    "answer": "to close"
+  },
+  {
+    "id": 105,
+    "question": "Wat betekent 'opendoen'?",
+    "options": [
+      "to contradict",
+      "to join in",
+      "to leave behind",
+      "to open"
+    ],
+    "answer": "to open"
+  },
+  {
+    "id": 106,
+    "question": "Wat betekent 'dichtdraaien'?",
+    "options": [
+      "to turn off (a tap)",
+      "to remove",
+      "to apply",
+      "to keep talking"
+    ],
+    "answer": "to turn off (a tap)"
+  },
+  {
+    "id": 107,
+    "question": "Wat betekent 'opendraaien'?",
+    "options": [
+      "to put down",
+      "to dry off",
+      "to look back",
+      "to turn on (a tap)"
+    ],
+    "answer": "to turn on (a tap)"
+  },
+  {
+    "id": 108,
+    "question": "Wat betekent 'aandoen'?",
+    "options": [
+      "to lift up",
+      "to turn on",
+      "to put on / turn on",
+      "to accommodate / house"
+    ],
+    "answer": "to put on / turn on"
+  },
+  {
+    "id": 109,
+    "question": "Wat betekent 'uitdoen'?",
+    "options": [
+      "to lift up",
+      "to take off / turn off",
+      "to stay home",
+      "to inhale"
+    ],
+    "answer": "to take off / turn off"
+  },
+  {
+    "id": 110,
+    "question": "Wat betekent 'vastmaken'?",
+    "options": [
+      "to prepare",
+      "to watch along",
+      "to switch on",
+      "to fasten"
+    ],
+    "answer": "to fasten"
+  },
+  {
+    "id": 111,
+    "question": "Wat betekent 'losmaken'?",
+    "options": [
+      "to loosen / untie",
+      "to go along",
+      "to take away / drop off",
+      "to add"
+    ],
+    "answer": "to loosen / untie"
+  },
+  {
+    "id": 112,
+    "question": "Wat betekent 'neerzetten'?",
+    "options": [
+      "to point out",
+      "to put down",
+      "to give back",
+      "to log in"
+    ],
+    "answer": "to put down"
+  },
+  {
+    "id": 113,
+    "question": "Wat betekent 'optillen'?",
+    "options": [
+      "to lift up",
+      "to continue",
+      "to hand out",
+      "to leave / go away"
+    ],
+    "answer": "to lift up"
+  },
+  {
+    "id": 114,
+    "question": "Wat betekent 'uitkijken'?",
+    "options": [
+      "to open",
+      "to watch out",
+      "to hand out",
+      "to contribute"
+    ],
+    "answer": "to watch out"
+  },
+  {
+    "id": 115,
+    "question": "Wat betekent 'omkijken'?",
+    "options": [
+      "to come home",
+      "to look back / around",
+      "to watch / look on",
+      "to contribute"
+    ],
+    "answer": "to look back / around"
+  },
+  {
+    "id": 116,
+    "question": "Wat betekent 'toekijken'?",
+    "options": [
+      "to close",
+      "to watch / look on",
+      "to switch on",
+      "to broadcast"
+    ],
+    "answer": "to watch / look on"
+  },
+  {
+    "id": 117,
+    "question": "Wat betekent 'meekijken'?",
+    "options": [
+      "to take off / turn off",
+      "to tick / check off",
+      "to watch along",
+      "to vomit / hand over"
+    ],
+    "answer": "to watch along"
+  },
+  {
+    "id": 118,
+    "question": "Wat betekent 'voorbijgaan'?",
+    "options": [
+      "to pass by",
+      "to import / enter",
+      "to exhale",
+      "to broadcast"
+    ],
+    "answer": "to pass by"
+  },
+  {
+    "id": 119,
+    "question": "Wat betekent 'langskomen'?",
+    "options": [
+      "to drop by",
+      "to come out / turn out",
+      "to rest",
+      "to clean up"
+    ],
+    "answer": "to drop by"
+  },
+  {
+    "id": 120,
+    "question": "Wat betekent 'binnenlopen'?",
+    "options": [
+      "to introduce / propose",
+      "to drop by / walk in",
+      "to update",
+      "to lay down / resign"
+    ],
+    "answer": "to drop by / walk in"
+  },
+  {
+    "id": 121,
+    "question": "Wat betekent 'thuisblijven'?",
+    "options": [
+      "to look back",
+      "to invite",
+      "to stay home",
+      "to fill in"
+    ],
+    "answer": "to stay home"
+  },
+  {
+    "id": 122,
+    "question": "Wat betekent 'wegblijven'?",
+    "options": [
+      "to introduce / propose",
+      "to set up",
+      "to stay away",
+      "to clear up (weather)"
+    ],
+    "answer": "to stay away"
+  },
+  {
+    "id": 123,
+    "question": "Wat betekent 'stilstaan'?",
+    "options": [
+      "to stand still",
+      "to contribute",
+      "to lose weight",
+      "to set up"
+    ],
+    "answer": "to stand still"
+  },
+  {
+    "id": 124,
+    "question": "Wat betekent 'bijhouden'?",
+    "options": [
+      "to stand still",
+      "to keep track of",
+      "to stay home",
+      "to lift up"
+    ],
+    "answer": "to keep track of"
+  },
+  {
+    "id": 125,
+    "question": "Wat betekent 'bijwerken'?",
+    "options": [
+      "to update",
+      "to look up",
+      "to stand still",
+      "to import / enter"
+    ],
+    "answer": "to update"
+  },
+  {
+    "id": 126,
+    "question": "Wat betekent 'bijleggen'?",
+    "options": [
+      "to continue",
+      "to settle (a dispute)",
+      "to pass on",
+      "to adjust / adapt"
+    ],
+    "answer": "to settle (a dispute)"
+  },
+  {
+    "id": 127,
+    "question": "Wat betekent 'bijdragen'?",
+    "options": [
+      "to switch off",
+      "to wash the dishes",
+      "to clean up",
+      "to contribute"
+    ],
+    "answer": "to contribute"
+  },
+  {
+    "id": 128,
+    "question": "Wat betekent 'toevoegen'?",
+    "options": [
+      "to accommodate / house",
+      "to watch / look on",
+      "to stop / hold back",
+      "to add"
+    ],
+    "answer": "to add"
+  },
+  {
+    "id": 129,
+    "question": "Wat betekent 'toelaten'?",
+    "options": [
+      "to keep on / detain",
+      "to spend (time)",
+      "to allow / admit",
+      "to broadcast"
+    ],
+    "answer": "to allow / admit"
+  },
+  {
+    "id": 130,
+    "question": "Wat betekent 'toekennen'?",
+    "options": [
+      "to award / grant",
+      "to cancel / quit",
+      "to log out",
+      "to finish"
+    ],
+    "answer": "to award / grant"
+  },
+  {
+    "id": 131,
+    "question": "Wat betekent 'toepassen'?",
+    "options": [
+      "to cancel / quit",
+      "to get up",
+      "to open",
+      "to apply"
+    ],
+    "answer": "to apply"
+  },
+  {
+    "id": 132,
+    "question": "Wat betekent 'toesturen'?",
+    "options": [
+      "to invite",
+      "to take along",
+      "to send",
+      "to unpack"
+    ],
+    "answer": "to send"
+  },
+  {
+    "id": 133,
+    "question": "Wat betekent 'toewijzen'?",
+    "options": [
+      "to pass on",
+      "to watch along",
+      "to assign",
+      "to pack"
+    ],
+    "answer": "to assign"
+  },
+  {
+    "id": 134,
+    "question": "Wat betekent 'voortzetten'?",
+    "options": [
+      "to continue",
+      "to fasten",
+      "to tick / check off",
+      "to clean up"
+    ],
+    "answer": "to continue"
+  },
+  {
+    "id": 135,
+    "question": "Wat betekent 'onderbrengen'?",
+    "options": [
+      "to pass on",
+      "to hurry up",
+      "to accommodate / house",
+      "to inhale"
+    ],
+    "answer": "to accommodate / house"
+  },
+  {
+    "id": 136,
+    "question": "Wat betekent 'neerleggen'?",
+    "options": [
+      "to lay down / resign",
+      "to lift up",
+      "to demonstrate",
+      "to keep on / detain"
+    ],
+    "answer": "to lay down / resign"
+  },
+  {
+    "id": 137,
+    "question": "Wat betekent 'neerkomen'?",
+    "options": [
+      "to allow / admit",
+      "to close",
+      "to exhale",
+      "to come down / amount to"
+    ],
+    "answer": "to come down / amount to"
+  },
+  {
+    "id": 138,
+    "question": "Wat betekent 'opklaren'?",
+    "options": [
+      "to loosen / untie",
+      "to clear up (weather)",
+      "to join in",
+      "to postpone"
+    ],
+    "answer": "to clear up (weather)"
+  },
+  {
+    "id": 139,
+    "question": "Wat betekent 'uitkomen'?",
+    "options": [
+      "to adjust / adapt",
+      "to fill in",
+      "to come out / turn out",
+      "to come back"
+    ],
+    "answer": "to come out / turn out"
+  },
+  {
+    "id": 140,
+    "question": "Wat betekent 'aanschaffen'?",
+    "options": [
+      "to assign",
+      "to get undressed",
+      "to stay home",
+      "to purchase / acquire"
+    ],
+    "answer": "to purchase / acquire"
+  },
+  {
+    "id": 141,
+    "question": "Wat betekent 'aangeven'?",
+    "options": [
+      "to put down",
+      "to cancel",
+      "to settle (a dispute)",
+      "to indicate"
+    ],
+    "answer": "to indicate"
+  },
+  {
+    "id": 142,
+    "question": "Wat betekent 'aankruisen'?",
+    "options": [
+      "to throw away",
+      "to lose weight",
+      "to tick / check off",
+      "to postpone"
+    ],
+    "answer": "to tick / check off"
+  },
+  {
+    "id": 143,
+    "question": "Wat betekent 'aanraken'?",
+    "options": [
+      "to clean",
+      "to touch",
+      "to demonstrate",
+      "to contribute"
+    ],
+    "answer": "to touch"
+  },
+  {
+    "id": 144,
+    "question": "Wat betekent 'uitdelen'?",
+    "options": [
+      "to postpone",
+      "to hand out",
+      "to import / enter",
+      "to rest"
+    ],
+    "answer": "to hand out"
+  },
+  {
+    "id": 145,
+    "question": "Wat betekent 'rondkomen'?",
+    "options": [
+      "to turn off (a tap)",
+      "to drop by",
+      "to make ends meet",
+      "to come out / turn out"
+    ],
+    "answer": "to make ends meet"
+  },
+  {
+    "id": 146,
+    "question": "Wat betekent 'tegenspreken'?",
+    "options": [
+      "to continue",
+      "to add",
+      "to contradict",
+      "to watch out"
+    ],
+    "answer": "to contradict"
+  },
+  {
+    "id": 147,
+    "question": "Wat betekent 'aanhouden'?",
+    "options": [
+      "to lift up",
+      "to update",
+      "to keep on / detain",
+      "to demonstrate"
+    ],
+    "answer": "to keep on / detain"
+  },
+  {
+    "id": 148,
+    "question": "Wat betekent 'uitspreken'?",
+    "options": [
+      "to pronounce",
+      "to expand",
+      "to tick / check off",
+      "to cancel / quit"
+    ],
+    "answer": "to pronounce"
+  },
+  {
+    "id": 149,
+    "question": "Wat betekent 'aanpassen'?",
+    "options": [
+      "to transfer / change",
+      "to look up",
+      "to cancel",
+      "to adjust / adapt"
+    ],
+    "answer": "to adjust / adapt"
+  },
+  {
+    "id": 150,
+    "question": "Wat betekent 'afkijken'?",
+    "options": [
+      "to add",
+      "to copy / cheat (by looking)",
+      "to explain",
+      "to apply"
+    ],
+    "answer": "to copy / cheat (by looking)"
+  }
+]

@@ -2,6 +2,7 @@ import type { Deck, FlipCard } from '../types'
 import zijnConjugation from './zijn-conjugation.json'
 import pronouns from './pronouns.json'
 import vocabulary from './vocabulary.json'
+import separable from './separable-verbs.json'
 
 const deckCards: Record<string, FlipCard[]> = {
   'zijn-conjugation': zijnConjugation,
@@ -30,6 +31,13 @@ export const decks: Deck[] = [
     description: 'Translate common Dutch words to English',
     icon: '📖',
     cardCount: vocabulary.length,
+  },
+  {
+    id: 'separable-verbs',
+    name: 'Separable verbs',
+    description: 'Translate common Dutch verbs to English',
+    icon: '🏋️',
+    cardCount: separable.length,
   },
 ]
 
