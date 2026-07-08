@@ -88,5 +88,305 @@
     "question": "Zij (she) ___ lerares. (She was a teacher — past)",
     "options": ["was", "waren", "is", "ben"],
     "answer": "was"
+  },
+  {
+    "id": 16,
+    "question": "Ik ___ niet boos. (I am not angry)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "ben"
+  },
+  {
+    "id": 17,
+    "question": "Jij ___ erg slim. (You are very smart)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "bent"
+  },
+  {
+    "id": 18,
+    "question": "De kat ___ op de tafel. (The cat is on the table)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 19,
+    "question": "De kinderen ___ in de tuin. (The children are in the garden)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 20,
+    "question": "___ hij je broer? (Is he your brother?) — inverted",
+    "options": ["Ben", "Bent", "Is", "Zijn"],
+    "answer": "Is"
+  },
+  {
+    "id": 21,
+    "question": "Ik ___ een Nederlander. (I am a Dutchman)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "ben"
+  },
+  {
+    "id": 22,
+    "question": "Waar ___ jullie? (Where are you all?)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 23,
+    "question": "Het eten ___ klaar. (The food is ready)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 24,
+    "question": "Wij ___ gelukkig samen. (We are happy together)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 25,
+    "question": "___ u de dokter? (Are you the doctor? — formal)",
+    "options": ["Ben", "Bent", "Is", "Zijn"],
+    "answer": "Bent"
+  },
+  {
+    "id": 26,
+    "question": "Zij (they) ___ altijd op tijd. (They are always on time)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 27,
+    "question": "Mijn zus ___ arts. (My sister is a doctor)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 28,
+    "question": "Ik ___ hier nieuw. (I am new here)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "ben"
+  },
+  {
+    "id": 29,
+    "question": "De boeken ___ op de plank. (The books are on the shelf)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 30,
+    "question": "Jij ___ mijn beste vriend. (You are my best friend)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "bent"
+  },
+  {
+    "id": 31,
+    "question": "Het weer ___ mooi vandaag. (The weather is nice today)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 32,
+    "question": "___ wij te laat? (Are we too late?) — inverted",
+    "options": ["Ben", "Bent", "Is", "Zijn"],
+    "answer": "Zijn"
+  },
+  {
+    "id": 33,
+    "question": "De deur ___ open. (The door is open)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 34,
+    "question": "Jullie ___ welkom bij ons. (You all are welcome at our place)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 35,
+    "question": "Hij ___ gisteren jarig geweest. (He had his birthday yesterday — past)",
+    "options": ["was", "waren", "is", "ben"],
+    "answer": "was"
+  },
+  {
+    "id": 36,
+    "question": "Wij ___ vorig jaar in Parijs. (We were in Paris last year — past)",
+    "options": ["was", "waren", "ben", "zijn"],
+    "answer": "waren"
+  },
+  {
+    "id": 37,
+    "question": "Ik ___ bang in het donker. (I was scared in the dark — past)",
+    "options": ["was", "waren", "ben", "bent"],
+    "answer": "was"
+  },
+  {
+    "id": 38,
+    "question": "De winkels ___ gesloten. (The shops were closed — past)",
+    "options": ["was", "waren", "is", "zijn"],
+    "answer": "waren"
+  },
+  {
+    "id": 39,
+    "question": "Het ___ een mooie dag. (It was a beautiful day — past)",
+    "options": ["was", "waren", "is", "ben"],
+    "answer": "was"
+  },
+  {
+    "id": 40,
+    "question": "Zij (they) ___ niet thuis gisteravond. (They were not home last night — past)",
+    "options": ["was", "waren", "is", "zijn"],
+    "answer": "waren"
+  },
+  {
+    "id": 41,
+    "question": "Ik ___ verdwaald in de stad. (I was lost in the city — past)",
+    "options": ["was", "waren", "ben", "bent"],
+    "answer": "was"
+  },
+  {
+    "id": 42,
+    "question": "Waar ___ jij gisteren? (Where were you yesterday? — past)",
+    "options": ["was", "waren", "ben", "bent"],
+    "answer": "was"
+  },
+  {
+    "id": 43,
+    "question": "De straten ___ nat van de regen. (The streets were wet from the rain — past)",
+    "options": ["was", "waren", "is", "zijn"],
+    "answer": "waren"
+  },
+  {
+    "id": 44,
+    "question": "U ___ erg behulpzaam. (You were very helpful — past, formal)",
+    "options": ["was", "waren", "bent", "is"],
+    "answer": "was"
+  },
+  {
+    "id": 45,
+    "question": "Ik ___ vroeger verlegen. (I used to be shy — past)",
+    "options": ["was", "waren", "ben", "bent"],
+    "answer": "was"
+  },
+  {
+    "id": 46,
+    "question": "Wie ___ dat? (Who is that?)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 47,
+    "question": "Wat ___ jullie van plan? (What are you all planning?)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 48,
+    "question": "Ik ___ klaar met mijn werk. (I am done with my work)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "ben"
+  },
+  {
+    "id": 49,
+    "question": "De auto ___ kapot. (The car is broken)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 50,
+    "question": "Jullie ___ te luid. (You all are too loud)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 51,
+    "question": "___ het ver van hier? (Is it far from here?) — inverted",
+    "options": ["Ben", "Bent", "Is", "Zijn"],
+    "answer": "Is"
+  },
+  {
+    "id": 52,
+    "question": "Mijn ouders ___ gepensioneerd. (My parents are retired)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 53,
+    "question": "Jij ___ aan de beurt. (It is your turn)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "bent"
+  },
+  {
+    "id": 54,
+    "question": "Het museum ___ vandaag dicht. (The museum is closed today)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 55,
+    "question": "Wij ___ buren. (We are neighbours)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 56,
+    "question": "___ zij (they) al weg? (Are they already gone?) — inverted",
+    "options": ["Ben", "Bent", "Is", "Zijn"],
+    "answer": "Zijn"
+  },
+  {
+    "id": 57,
+    "question": "Dit ___ mijn huis. (This is my house)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 58,
+    "question": "Ik ___ het eens met jou. (I agree with you)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "ben"
+  },
+  {
+    "id": 59,
+    "question": "Zij (she) ___ verpleegster. (She is a nurse)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 60,
+    "question": "De bloemen ___ mooi. (The flowers are beautiful)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 61,
+    "question": "Jullie ___ de winnaars! (You all are the winners!)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 62,
+    "question": "Ik ___ er bijna. (I am almost there)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "ben"
+  },
+  {
+    "id": 63,
+    "question": "Waar ___ het station? (Where is the station?)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
+  },
+  {
+    "id": 64,
+    "question": "Wij ___ op zoek naar een restaurant. (We are looking for a restaurant)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "zijn"
+  },
+  {
+    "id": 65,
+    "question": "Hij ___ al vertrokken. (He has already left — present perfect with zijn)",
+    "options": ["ben", "bent", "is", "zijn"],
+    "answer": "is"
   }
 ]

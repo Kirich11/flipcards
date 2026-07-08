@@ -49,7 +49,7 @@
   },
   {
     "id": 9,
-    "question": "Ik bel ___ morgen. (I call them tomorrow) — object pronoun",
+    "question": "Ik bel ___ morgen. (I call them tomorrow) — direct object",
     "options": ["zij", "hun", "hen", "ze"],
     "answer": "hen"
   },
@@ -88,5 +88,305 @@
     "question": "De leraar vraagt het aan ___. (The teacher asks you — formal) — object",
     "options": ["jou", "u", "je", "jullie"],
     "answer": "u"
+  },
+  {
+    "id": 16,
+    "question": "___ eet een appel. (I eat an apple) — subject pronoun",
+    "options": ["Mij", "Ik", "Me", "Mijn"],
+    "answer": "Ik"
+  },
+  {
+    "id": 17,
+    "question": "De hond volgt ___. (The dog follows me) — object pronoun",
+    "options": ["ik", "mij", "mijn", "me"],
+    "answer": "mij"
+  },
+  {
+    "id": 18,
+    "question": "___ lezen een boek. (They read a book) — subject pronoun",
+    "options": ["Hen", "Hun", "Zij", "Haar"],
+    "answer": "Zij"
+  },
+  {
+    "id": 19,
+    "question": "Wacht op ___! (Wait for him!) — object pronoun",
+    "options": ["hij", "hem", "zijn", "zij"],
+    "answer": "hem"
+  },
+  {
+    "id": 20,
+    "question": "___ werkt bij een bank. (She works at a bank) — subject pronoun",
+    "options": ["Haar", "Zij", "Hun", "Hen"],
+    "answer": "Zij"
+  },
+  {
+    "id": 21,
+    "question": "Ik schrijf ___ een brief. (I write them a letter) — indirect object",
+    "options": ["zij", "hen", "hun", "ze"],
+    "answer": "hun"
+  },
+  {
+    "id": 22,
+    "question": "Dit cadeau is voor ___. (This gift is for her) — object pronoun",
+    "options": ["zij", "haar", "ze", "hun"],
+    "answer": "haar"
+  },
+  {
+    "id": 23,
+    "question": "___ komt uit België. (He comes from Belgium) — subject pronoun",
+    "options": ["Hem", "Hij", "Zijn", "Hen"],
+    "answer": "Hij"
+  },
+  {
+    "id": 24,
+    "question": "Luister naar ___! (Listen to me!) — object pronoun",
+    "options": ["ik", "mij", "mijn", "me"],
+    "answer": "mij"
+  },
+  {
+    "id": 25,
+    "question": "___ studeren medicijnen. (We study medicine) — subject pronoun",
+    "options": ["Ons", "Wij", "Onze", "We"],
+    "answer": "Wij"
+  },
+  {
+    "id": 26,
+    "question": "De baas belt ___. (The boss calls him) — object pronoun",
+    "options": ["hij", "hem", "zijn", "hen"],
+    "answer": "hem"
+  },
+  {
+    "id": 27,
+    "question": "Ik vertrouw ___. (I trust her) — object pronoun",
+    "options": ["zij", "haar", "ze", "hun"],
+    "answer": "haar"
+  },
+  {
+    "id": 28,
+    "question": "___ heeft een nieuwe baan. (He has a new job) — subject pronoun",
+    "options": ["Hem", "Hij", "Zijn", "Hen"],
+    "answer": "Hij"
+  },
+  {
+    "id": 29,
+    "question": "Ga met ___ mee. (Come along with us) — object pronoun",
+    "options": ["wij", "ons", "we", "onze"],
+    "answer": "ons"
+  },
+  {
+    "id": 30,
+    "question": "___ spreekt drie talen. (You speak three languages — formal) — subject",
+    "options": ["Jij", "U", "Jou", "Je"],
+    "answer": "U"
+  },
+  {
+    "id": 31,
+    "question": "De politie zoekt ___. (The police is looking for them) — direct object",
+    "options": ["zij", "hun", "hen", "ze"],
+    "answer": "hen"
+  },
+  {
+    "id": 32,
+    "question": "___ wonen in Rotterdam. (You all live in Rotterdam) — subject pronoun",
+    "options": ["Jullie", "Jou", "Je", "U"],
+    "answer": "Jullie"
+  },
+  {
+    "id": 33,
+    "question": "Stuur ___ een e-mail. (Send them an email) — indirect object",
+    "options": ["zij", "hen", "hun", "ze"],
+    "answer": "hun"
+  },
+  {
+    "id": 34,
+    "question": "___ is een leuk dorp. (It is a nice village) — subject pronoun (neuter)",
+    "options": ["Hij", "Het", "Er", "Zij"],
+    "answer": "Het"
+  },
+  {
+    "id": 35,
+    "question": "Ik heb ___ gisteren gezien. (I saw you yesterday) — object pronoun",
+    "options": ["jij", "jou", "je", "jullie"],
+    "answer": "jou"
+  },
+  {
+    "id": 36,
+    "question": "___ kookt het eten. (She cooks the food) — subject pronoun",
+    "options": ["Haar", "Zij", "Ze", "Hun"],
+    "answer": "Zij"
+  },
+  {
+    "id": 37,
+    "question": "De kinderen luisteren naar ___. (The children listen to her) — object",
+    "options": ["zij", "haar", "ze", "hun"],
+    "answer": "haar"
+  },
+  {
+    "id": 38,
+    "question": "Wie heeft ___ gebeld? (Who called you? — informal) — object pronoun",
+    "options": ["jij", "jou", "je", "jullie"],
+    "answer": "jou"
+  },
+  {
+    "id": 39,
+    "question": "___ rijdt naar het werk. (I drive to work) — subject pronoun",
+    "options": ["Mij", "Ik", "Me", "Mijn"],
+    "answer": "Ik"
+  },
+  {
+    "id": 40,
+    "question": "Vergeet ___ niet! (Don't forget us!) — object pronoun",
+    "options": ["wij", "ons", "we", "onze"],
+    "answer": "ons"
+  },
+  {
+    "id": 41,
+    "question": "___ heeft geen geld. (He has no money) — subject pronoun",
+    "options": ["Hem", "Hij", "Zijn", "Hen"],
+    "answer": "Hij"
+  },
+  {
+    "id": 42,
+    "question": "Ik stuur ___ een bericht. (I send you a message — formal) — object",
+    "options": ["jou", "u", "je", "jullie"],
+    "answer": "u"
+  },
+  {
+    "id": 43,
+    "question": "Breng ___ naar het ziekenhuis. (Take him to the hospital) — object",
+    "options": ["hij", "hem", "zijn", "hen"],
+    "answer": "hem"
+  },
+  {
+    "id": 44,
+    "question": "___ spelen voetbal. (They play football) — subject pronoun",
+    "options": ["Hen", "Hun", "Zij", "Haar"],
+    "answer": "Zij"
+  },
+  {
+    "id": 45,
+    "question": "De brief is voor ___. (The letter is for me) — object pronoun",
+    "options": ["ik", "mij", "mijn", "me"],
+    "answer": "mij"
+  },
+  {
+    "id": 46,
+    "question": "___ vindt het leuk. (She likes it) — subject pronoun",
+    "options": ["Haar", "Zij", "Ze", "Hun"],
+    "answer": "Zij"
+  },
+  {
+    "id": 47,
+    "question": "Geef ___ het boek terug. (Give him the book back) — indirect object",
+    "options": ["hij", "hem", "zijn", "hen"],
+    "answer": "hem"
+  },
+  {
+    "id": 48,
+    "question": "___ lopen naar het park. (We walk to the park) — subject pronoun",
+    "options": ["Ons", "Wij", "Onze", "We"],
+    "answer": "Wij"
+  },
+  {
+    "id": 49,
+    "question": "Ik nodig ___ uit voor het feest. (I invite them to the party) — direct obj",
+    "options": ["zij", "hun", "hen", "ze"],
+    "answer": "hen"
+  },
+  {
+    "id": 50,
+    "question": "___ studeert rechten. (You study law — informal) — subject pronoun",
+    "options": ["Jou", "Jij", "Je", "U"],
+    "answer": "Jij"
+  },
+  {
+    "id": 51,
+    "question": "Zeg het tegen ___. (Tell it to her) — object pronoun",
+    "options": ["zij", "haar", "ze", "hun"],
+    "answer": "haar"
+  },
+  {
+    "id": 52,
+    "question": "___ begint morgen met een nieuwe cursus. (It starts tomorrow — neuter)",
+    "options": ["Hij", "Het", "Er", "Zij"],
+    "answer": "Het"
+  },
+  {
+    "id": 53,
+    "question": "Ik leer ___ Nederlandse grammatica. (I teach them Dutch grammar) — indirect",
+    "options": ["zij", "hen", "hun", "ze"],
+    "answer": "hun"
+  },
+  {
+    "id": 54,
+    "question": "Help ___! (Help me!) — object pronoun",
+    "options": ["ik", "mij", "mijn", "me"],
+    "answer": "mij"
+  },
+  {
+    "id": 55,
+    "question": "___ drinken koffie. (You all drink coffee) — subject pronoun",
+    "options": ["Jullie", "Jou", "Je", "U"],
+    "answer": "Jullie"
+  },
+  {
+    "id": 56,
+    "question": "De manager wil ___ spreken. (The manager wants to speak to you — formal)",
+    "options": ["jou", "u", "je", "jullie"],
+    "answer": "u"
+  },
+  {
+    "id": 57,
+    "question": "___ maakt het ontbijt. (He makes breakfast) — subject pronoun",
+    "options": ["Hem", "Hij", "Zijn", "Hen"],
+    "answer": "Hij"
+  },
+  {
+    "id": 58,
+    "question": "Ik betaal ___. (I pay her) — object pronoun",
+    "options": ["zij", "haar", "ze", "hun"],
+    "answer": "haar"
+  },
+  {
+    "id": 59,
+    "question": "Niemand kent ___. (Nobody knows them) — direct object",
+    "options": ["zij", "hun", "hen", "ze"],
+    "answer": "hen"
+  },
+  {
+    "id": 60,
+    "question": "___ hebben een afspraak. (We have an appointment) — subject pronoun",
+    "options": ["Ons", "Wij", "Onze", "We"],
+    "answer": "Wij"
+  },
+  {
+    "id": 61,
+    "question": "Kijk naar ___! (Look at him!) — object pronoun",
+    "options": ["hij", "hem", "zijn", "hen"],
+    "answer": "hem"
+  },
+  {
+    "id": 62,
+    "question": "___ leest de krant. (She reads the newspaper) — subject pronoun",
+    "options": ["Haar", "Zij", "Ze", "Hun"],
+    "answer": "Zij"
+  },
+  {
+    "id": 63,
+    "question": "Ik toon ___ de weg. (I show them the way) — indirect object",
+    "options": ["zij", "hen", "hun", "ze"],
+    "answer": "hun"
+  },
+  {
+    "id": 64,
+    "question": "De hond bijt ___. (The dog bites you — informal) — object pronoun",
+    "options": ["jij", "jou", "je", "jullie"],
+    "answer": "jou"
+  },
+  {
+    "id": 65,
+    "question": "___ regent al de hele dag. (It has been raining all day) — subject (neuter)",
+    "options": ["Hij", "Het", "Er", "Zij"],
+    "answer": "Het"
   }
 ]
