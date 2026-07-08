@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "question": "huis",
+    "options": ["house", "horse", "hat", "hill"],
+    "answer": "house"
+  },
+  {
+    "id": 2,
+    "question": "water",
+    "options": ["water", "weather", "winter", "window"],
+    "answer": "water"
+  },
+  {
+    "id": 3,
+    "question": "boek",
+    "options": ["book", "back", "box", "boat"],
+    "answer": "book"
+  },
+  {
+    "id": 4,
+    "question": "kat",
+    "options": ["cat", "coat", "car", "cup"],
+    "answer": "cat"
+  },
+  {
+    "id": 5,
+    "question": "hond",
+    "options": ["hand", "dog", "head", "horn"],
+    "answer": "dog"
+  },
+  {
+    "id": 6,
+    "question": "brood",
+    "options": ["bread", "bridge", "brown", "broad"],
+    "answer": "bread"
+  },
+  {
+    "id": 7,
+    "question": "melk",
+    "options": ["milk", "mark", "mail", "meal"],
+    "answer": "milk"
+  },
+  {
+    "id": 8,
+    "question": "appel",
+    "options": ["apple", "appeal", "ankle", "arrow"],
+    "answer": "apple"
+  },
+  {
+    "id": 9,
+    "question": "straat",
+    "options": ["street", "straight", "state", "stream"],
+    "answer": "street"
+  },
+  {
+    "id": 10,
+    "question": "school",
+    "options": ["school", "shell", "ship", "shore"],
+    "answer": "school"
+  },
+  {
+    "id": 11,
+    "question": "trein",
+    "options": ["tree", "train", "trail", "trade"],
+    "answer": "train"
+  },
+  {
+    "id": 12,
+    "question": "fiets",
+    "options": ["bicycle", "field", "fish", "feast"],
+    "answer": "bicycle"
+  },
+  {
+    "id": 13,
+    "question": "deur",
+    "options": ["door", "dear", "deer", "dark"],
+    "answer": "door"
+  },
+  {
+    "id": 14,
+    "question": "tafel",
+    "options": ["table", "tale", "tower", "tile"],
+    "answer": "table"
+  },
+  {
+    "id": 15,
+    "question": "stoel",
+    "options": ["chair", "steel", "stool", "stone"],
+    "answer": "chair"
+  },
+  {
+    "id": 16,
+    "question": "raam",
+    "options": ["room", "rain", "window", "frame"],
+    "answer": "window"
+  },
+  {
+    "id": 17,
+    "question": "bloem",
+    "options": ["flower", "bloom", "blood", "blue"],
+    "answer": "flower"
+  },
+  {
+    "id": 18,
+    "question": "boom",
+    "options": ["tree", "bomb", "bone", "boot"],
+    "answer": "tree"
+  },
+  {
+    "id": 19,
+    "question": "zon",
+    "options": ["son", "sun", "zone", "song"],
+    "answer": "sun"
+  },
+  {
+    "id": 20,
+    "question": "maan",
+    "options": ["man", "moon", "main", "mine"],
+    "answer": "moon"
+  },
+  {
+    "id": 21,
+    "question": "vlees",
+    "options": ["meat", "fleece", "floor", "flame"],
+    "answer": "meat"
+  },
+  {
+    "id": 22,
+    "question": "kaas",
+    "options": ["case", "cheese", "coast", "class"],
+    "answer": "cheese"
+  },
+  {
+    "id": 23,
+    "question": "vis",
+    "options": ["fish", "face", "fist", "vine"],
+    "answer": "fish"
+  },
+  {
+    "id": 24,
+    "question": "vogel",
+    "options": ["bird", "voice", "village", "violin"],
+    "answer": "bird"
+  },
+  {
+    "id": 25,
+    "question": "kind",
+    "options": ["kind", "child", "king", "kitchen"],
+    "answer": "child"
+  },
+  {
+    "id": 26,
+    "question": "vrouw",
+    "options": ["woman", "friend", "fruit", "free"],
+    "answer": "woman"
+  },
+  {
+    "id": 27,
+    "question": "man",
+    "options": ["moon", "man", "map", "morning"],
+    "answer": "man"
+  },
+  {
+    "id": 28,
+    "question": "stad",
+    "options": ["city", "state", "stand", "start"],
+    "answer": "city"
+  },
+  {
+    "id": 29,
+    "question": "land",
+    "options": ["land/country", "lane", "lamp", "lake"],
+    "answer": "land/country"
+  },
+  {
+    "id": 30,
+    "question": "berg",
+    "options": ["mountain", "bridge", "barn", "beach"],
+    "answer": "mountain"
+  },
+  {
+    "id": 31,
+    "question": "zee",
+    "options": ["sea", "zoo", "zone", "zero"],
+    "answer": "sea"
+  },
+  {
+    "id": 32,
+    "question": "rivier",
+    "options": ["river", "roof", "rider", "road"],
+    "answer": "river"
+  },
+  {
+    "id": 33,
+    "question": "lucht",
+    "options": ["air/sky", "light", "luck", "lunch"],
+    "answer": "air/sky"
+  },
+  {
+    "id": 34,
+    "question": "regen",
+    "options": ["rain", "region", "rule", "ring"],
+    "answer": "rain"
+  },
+  {
+    "id": 35,
+    "question": "sneeuw",
+    "options": ["snow", "snake", "slow", "snack"],
+    "answer": "snow"
+  },
+  {
+    "id": 36,
+    "question": "wind",
+    "options": ["wind", "wine", "wing", "wire"],
+    "answer": "wind"
+  },
+  {
+    "id": 37,
+    "question": "vuur",
+    "options": ["fire", "four", "fur", "fear"],
+    "answer": "fire"
+  },
+  {
+    "id": 38,
+    "question": "nacht",
+    "options": ["night", "north", "neck", "nest"],
+    "answer": "night"
+  },
+  {
+    "id": 39,
+    "question": "dag",
+    "options": ["day", "dog", "dark", "dig"],
+    "answer": "day"
+  },
+  {
+    "id": 40,
+    "question": "week",
+    "options": ["week", "wake", "work", "weak"],
+    "answer": "week"
+  },
+  {
+    "id": 41,
+    "question": "jaar",
+    "options": ["year", "jar", "yard", "joy"],
+    "answer": "year"
+  },
+  {
+    "id": 42,
+    "question": "tijd",
+    "options": ["time", "tide", "trip", "tile"],
+    "answer": "time"
+  },
+  {
+    "id": 43,
+    "question": "werk",
+    "options": ["work", "week", "world", "wire"],
+    "answer": "work"
+  },
+  {
+    "id": 44,
+    "question": "geld",
+    "options": ["money", "gold", "gift", "glass"],
+    "answer": "money"
+  },
+  {
+    "id": 45,
+    "question": "winkel",
+    "options": ["shop", "wink", "winter", "wheel"],
+    "answer": "shop"
+  },
+  {
+    "id": 46,
+    "question": "eten",
+    "options": ["food/to eat", "eight", "even", "end"],
+    "answer": "food/to eat"
+  },
+  {
+    "id": 47,
+    "question": "drinken",
+    "options": ["to drink", "to think", "to dream", "to drive"],
+    "answer": "to drink"
+  },
+  {
+    "id": 48,
+    "question": "slapen",
+    "options": ["to sleep", "to slip", "to snap", "to slap"],
+    "answer": "to sleep"
+  },
+  {
+    "id": 49,
+    "question": "lopen",
+    "options": ["to walk/run", "to look", "to lose", "to love"],
+    "answer": "to walk/run"
+  },
+  {
+    "id": 50,
+    "question": "zien",
+    "options": ["to see", "to sing", "to sit", "to send"],
+    "answer": "to see"
+  },
+  {
+    "id": 51,
+    "question": "horen",
+    "options": ["to hear", "to hope", "to hold", "to hurt"],
+    "answer": "to hear"
+  },
+  {
+    "id": 52,
+    "question": "spreken",
+    "options": ["to speak", "to spread", "to spring", "to spend"],
+    "answer": "to speak"
+  },
+  {
+    "id": 53,
+    "question": "groot",
+    "options": ["big/great", "green", "ground", "group"],
+    "answer": "big/great"
+  },
+  {
+    "id": 54,
+    "question": "klein",
+    "options": ["small", "clean", "close", "clear"],
+    "answer": "small"
+  },
+  {
+    "id": 55,
+    "question": "mooi",
+    "options": ["beautiful", "more", "moon", "most"],
+    "answer": "beautiful"
+  },
+  {
+    "id": 56,
+    "question": "lelijk",
+    "options": ["ugly", "likely", "lonely", "lively"],
+    "answer": "ugly"
+  },
+  {
+    "id": 57,
+    "question": "warm",
+    "options": ["warm", "worm", "word", "worn"],
+    "answer": "warm"
+  },
+  {
+    "id": 58,
+    "question": "koud",
+    "options": ["cold", "could", "cloud", "coat"],
+    "answer": "cold"
+  },
+  {
+    "id": 59,
+    "question": "snel",
+    "options": ["fast", "snail", "smell", "small"],
+    "answer": "fast"
+  },
+  {
+    "id": 60,
+    "question": "langzaam",
+    "options": ["slow", "long", "language", "large"],
+    "answer": "slow"
+  },
+  {
+    "id": 61,
+    "question": "nieuw",
+    "options": ["new", "now", "near", "never"],
+    "answer": "new"
+  },
+  {
+    "id": 62,
+    "question": "oud",
+    "options": ["old", "out", "odd", "own"],
+    "answer": "old"
+  },
+  {
+    "id": 63,
+    "question": "vriend",
+    "options": ["friend", "front", "free", "fruit"],
+    "answer": "friend"
+  },
+  {
+    "id": 64,
+    "question": "lichaam",
+    "options": ["body", "light", "letter", "lesson"],
+    "answer": "body"
+  },
+  {
+    "id": 65,
+    "question": "hoofd",
+    "options": ["head", "hood", "hoof", "hope"],
+    "answer": "head"
+  }
+]

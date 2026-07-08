@@ -1,10 +1,12 @@
 import type { Deck, FlipCard } from '../types'
 import zijnConjugation from './zijn-conjugation.json'
 import pronouns from './pronouns.json'
+import vocabulary from './vocabulary.json'
 
 const deckCards: Record<string, FlipCard[]> = {
   'zijn-conjugation': zijnConjugation,
   'pronouns': pronouns,
+  'vocabulary': vocabulary,
 }
 
 export const decks: Deck[] = [
@@ -21,6 +23,13 @@ export const decks: Deck[] = [
     description: 'Choose correct active (subject) and passive (object) pronouns',
     icon: '👉',
     cardCount: pronouns.length,
+  },
+  {
+    id: 'vocabulary',
+    name: 'Dutch → English Vocabulary',
+    description: 'Translate common Dutch words to English',
+    icon: '📖',
+    cardCount: vocabulary.length,
   },
 ]
 
